@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Mescouto</h1>
-<h3 align="center">Brazilian living in France. Currently working as a data scientist developing machine learning models. Prior, my professional background was largely in finance where I developed financial scenarios and feasibility studies for land acquisition, budgeted projects, forecasted projects cash flows and prepared investors reports.</h3>
+<h3 align="center">Brazilian living in France. Currently working as a data scientist developing machine learning models. Prior, my professional background was largely in finance where I developed financial scenarios and feasibility studies for land acquisition and prepared investors reports.</h3>
 
 - 🔭 I’m currently working on **NLP**
 
