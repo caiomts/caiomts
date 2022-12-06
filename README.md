@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Caio Mescouto</h1>
-<h3 align="center">Brazilian living in France. Currently working as a data scientist developing machine learning models. Prior, my professional background was largely in finance where I developed financial scenarios and feasibility studies for land acquisition and prepared investors reports.</h3>
-
-- 🔭 I’m currently working on **NLP**
-
-- 🌱 I’m currently learning **Deep Learning(TensorFlow + Keras), FastAPI**
-
-- 👯 I'm side-working on [timerdo](https://github.com/caiomts/timerdo)
-
-- 👨‍💻 All of my projects are available at [projects](https://caiomts.github.io/#projects)
-
-- 📝 I barely write articles on [blog](https://caiomts.github.io/#blog)
+<h1 align="center">Hi 👋, I'm Caio</h1>
+<h3 align="center">Brazilian living in France and working in Luxembourg 😅. Financial professional who codes or data scientist with an academic background in finance and economics. FOSS enthusiast and Python developer in my spare time.</h3>
 
 - 💬 Ask me about **Pandas, Scikit-learn, Pure Python**
 
@@ -19,7 +9,6 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/caiomescouto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caiomescouto" height="15" width="20" /></a>
 <a href="https://linkedin.com/in/caiomts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiomts" height="15" width="20" /></a>
 </p>
 
