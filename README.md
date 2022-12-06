@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
 <h3 align="center">Brazilian living in France and working in Luxembourg 😅. Financial professional who codes or data scientist with an academic background in finance and economics. FOSS enthusiast and Python developer in my spare time.</h3>
 
-- 💬 Ask me about **Pandas, Scikit-learn, Pure Python**
-
 - 📫 How to reach me **caiomescouto@gmail.com**
 
 - 📄 Know about my experiences [in/caiomts/](https://www.linkedin.com/in/caiomts/)
