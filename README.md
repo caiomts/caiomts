@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
-<h3 align="center">Brazilian living in France and working in Luxembourg 😅. Data scientist with an academic background in finance and economics. FOSS enthusiast and Pythonist.</h3>
+
+Brazilian living in France and working in Luxembourg 😅. Data scientist with an academic background in finance and economics. FOSS enthusiast and *Pythonista*.
 
 - 📫 How to reach me **caiomescouto@gmail.com**
 
-- 📄 Know about my experiences [in/caiomts/](https://www.linkedin.com/in/caiomts/)
+- 📄 Find out about my experiences [in/caiomts/](https://www.linkedin.com/in/caiomts/) or more informally at [caiomts.github.io](https://caiomts.github.io/resume/).
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/caiomts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiomts" height="20" width="20" /></a>
-</p>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
