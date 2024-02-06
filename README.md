@@ -4,7 +4,7 @@ FOSS enthusiast and *Pythonista*.
 
 - 📫 How to reach me **caiomescouto@gmail.com**
 
-- 📄 Find out about my experiences [in/caiomts/](https://www.linkedin.com/in/caiomts/) or more informally at [caiomts.github.io](https://caiomts.github.io/resume/).
+- 📄 Find out about my experiences [in/caiomts/](https://www.linkedin.com/in/caiomts/) or more informally at [caiomts.github.io](https://caiomts.github.io/).
 
 
 <h4 align="left">Languages and Tools:</h4>
