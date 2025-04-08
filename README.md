@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
 
-FOSS enthusiast and *Pythonista*.
-
 - 📫 How to reach me **caiomescouto@gmail.com**
 
 - 📄 Find out about my experiences [in/caiomts/](https://www.linkedin.com/in/caiomts/) or more informally at [caiomts.github.io](https://caiomts.github.io/).
